@@ -38,8 +38,10 @@ export default function Intro() {
 const Wrapper = styled.section`
   display: flex;
   flex-direction: column;
+  overflow: hidden;
   position: relative;
   width: 100%;
+  height: 100%;
 `;
 
 const IntroHeartImg = styled.img`
