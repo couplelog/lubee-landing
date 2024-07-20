@@ -28,11 +28,6 @@ a{
   box-sizing: border-box;
 }
 
-html, body{
-  overflow-x :  hidden;
-  background-color: ${({ theme }) => theme.colors.gray_50};
-}
-
 #root, body, html {
   width: 100%;
   margin: 0 auto;
