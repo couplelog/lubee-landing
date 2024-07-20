@@ -1,11 +1,10 @@
 import { useState } from "react";
-import FuncOne from "./FuncOne";
+import Intro from "./Intro";
 
 function App() {
   return (
     <>
       <Intro />
-      <FuncOne />
     </>
   );
 }
