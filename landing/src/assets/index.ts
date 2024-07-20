@@ -1,3 +1,3 @@
-import LogoIc from "./icon/logoIc.svg?react";
+import FunconeIc from "./icon/funconeIc.svg?react";
 
-export { LogoIc };
+export { FunconeIc };

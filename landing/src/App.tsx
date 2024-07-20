@@ -1,11 +1,17 @@
-import { useState } from "react";
 import FuncOne from "./FuncOne";
+import FuncThree from "./FuncThree";
+import FuncTwo from "./FuncTwo";
+import Yellow from "./Yellow";
+import Footer from "./Footer";
 
 function App() {
   return (
     <>
-      <Intro />
       <FuncOne />
+      <FuncTwo />
+      <FuncThree />
+      <Yellow />
+      <Footer />
     </>
   );
 }
